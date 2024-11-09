@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\lms project\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|solutionrelative:lms project\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\lms project\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|solutionrelative:lms project\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|e:\\01- apiit\\1st year\\semester 2\\03 - c# - software development and application modeling\\assignnment\\library system\\lms project\\lms project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|solutionrelative:lms project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\lms project\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|solutionrelative:lms project\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\lms project\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|solutionrelative:lms project\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\lms project\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2546FF12-B703-4EF6-95DD-392434A11430}|LMS Project\\LMS Project.csproj|solutionrelative:lms project\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loans.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Loans.cs",
+              "RelativeDocumentMoniker": "LMS Project\\Loans.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Loans.cs",
+              "RelativeToolTip": "LMS Project\\Loans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T20:15:28.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Person.cs",
+              "RelativeDocumentMoniker": "LMS Project\\Person.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Person.cs",
+              "RelativeToolTip": "LMS Project\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T20:28:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Member.cs",
+              "RelativeDocumentMoniker": "LMS Project\\Member.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Member.cs",
+              "RelativeToolTip": "LMS Project\\Member.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:18:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Librarian.cs",
+              "RelativeDocumentMoniker": "LMS Project\\Librarian.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Librarian.cs",
+              "RelativeToolTip": "LMS Project\\Librarian.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:01:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Library.cs",
+              "RelativeDocumentMoniker": "LMS Project\\Library.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Library.cs",
+              "RelativeToolTip": "LMS Project\\Library.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:01:17.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Program.cs",
+              "RelativeDocumentMoniker": "LMS Project\\Program.cs",
+              "ToolTip": "E:\\01- APIIT\\1st Year\\Semester 2\\03 - C# - Software Development and Application Modeling\\Assignnment\\Library System\\LMS Project\\LMS Project\\Program.cs",
+              "RelativeToolTip": "LMS Project\\Program.cs",
+              "ViewState": "AgIAABADAAAAAAAAAADwv68CAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:57:47.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

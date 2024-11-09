@@ -1,0 +1,55 @@
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.AssemblyReference.cache
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CoreCompileInputs.cache
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\bin\Debug\LMS Project.exe.config
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\bin\Debug\LMS Project.exe
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\bin\Debug\LMS Project.pdb
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\obj\Debug\LMS Project.exe
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\LMS Project\LMS Project\obj\Debug\LMS Project.pdb
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\LMS Project.exe.config
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\LMS Project.exe
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\LMS Project.pdb
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.AssemblyReference.cache
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CoreCompileInputs.cache
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\obj\Debug\LMS Project.exe
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\obj\Debug\LMS Project.pdb
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.abstractions.dll
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.assert.dll
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.core.dll
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.execution.desktop.dll
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.abstractions.xml
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.assert.xml
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.core.xml
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\bin\Debug\xunit.execution.desktop.xml
+E:\01 - APIIT\Semester 2\03 - C# - Software Development and Application Modeling\Assignnment\Library System\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CopyComplete
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\LMS Project.exe.config
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\LMS Project.exe
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\LMS Project.pdb
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.abstractions.dll
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.assert.dll
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.core.dll
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.execution.desktop.dll
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.abstractions.xml
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.assert.xml
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.core.xml
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\bin\Debug\xunit.execution.desktop.xml
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.AssemblyReference.cache
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CoreCompileInputs.cache
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\obj\Debug\LMS Proj.F8366919.Up2Date
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\obj\Debug\LMS Project.exe
+F:\Work\Personal\Assignment Writing\Aadhil Shadir Frnd - Library Book Managment LMS\LMS CLI Project_V1\LMS Project\LMS Project\obj\Debug\LMS Project.pdb
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\LMS Project.exe.config
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\LMS Project.exe
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\LMS Project.pdb
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.abstractions.dll
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.assert.dll
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.core.dll
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.execution.desktop.dll
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.abstractions.xml
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.assert.xml
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.core.xml
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\bin\Debug\xunit.execution.desktop.xml
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CopyComplete
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\obj\Debug\LMS Project.exe
+C:\Users\User\Desktop\LMS CLI Project_V2\LMS Project\LMS Project\obj\Debug\LMS Project.pdb
